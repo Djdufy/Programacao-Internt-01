@@ -1,0 +1,23 @@
+body {
+    background-image: url(src/papel.webp);
+    background-size: auto;
+}
+
+.p1 {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.p2 {
+    font-size: 30px;
+    text-decoration: line-through;
+}
+
+.titulo {
+    font-variant: normal;
+    text-align: center;
+}
+
+.titulo2 {
+    text-transform: uppercase;
+}

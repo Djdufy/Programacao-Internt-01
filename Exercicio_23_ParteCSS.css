@@ -1,0 +1,18 @@
+.Felipe {
+    background-image: url('src/paris.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(29, 49, 182);
+
+}
+
+.mala {
+    background-image: url('src/Viagem.jpg');
+    background-size: cover;
+    background-position: center;
+    color: rgb(204, 8, 8);
+}
+
+body {
+    background-color: skyblue;
+}

@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.Felipe {
+    background-color: rgb(113, 82, 82);
+    font-style: initial;
+    text-align: center;
+    margin: 40px;
+    padding: 40px;
+    border-radius: 40px;
+}
+
+.service {
+    margin: 40px;
+    padding: 40px;
+    border-radius: 40px;
+}
+
+.teste01 {
+    background-color: #c55656;
+    color: #070606;
+    font-size: 25px;
+    font-style: oblique;
+}
+
+.teste02 {
+    background-color: #118fcf;
+    color: #050505;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.teste03 {
+    background-color: #d8b814;
+    color: #040404;
+    font-size: 22px;
+    font-weight: bold;
+}
